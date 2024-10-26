@@ -2,7 +2,7 @@ import { ImageGalleryList } from './ImageGallery.styled';
 import ImageGalleryItem from 'components/ImageGalleryItem';
 import PropTypes from 'prop-types';
 import { useEffect } from 'react';
-import { perPage, imagesApi } from 'services/api';
+import { perPage, imagesApi } from '../api';
 
 const ImageGallery = ({
   onSetLoading,
