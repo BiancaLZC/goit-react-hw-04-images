@@ -2,7 +2,7 @@
   "name": "goit-react-hw-04-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/BiancaLZC/goit-react-hw-04-images/",
+  "homepage": "https://biancalzc.github.io/goit-react-hw-04-images/",
   "dependencies": {
     "@emotion/styled": "^11.13.0",
     "@testing-library/jest-dom": "^5.16.3",
